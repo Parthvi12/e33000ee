@@ -1,11 +1,19 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "ParentPageRenamed",
       "isDefault": true
     },
     {
       "id": "ParentPage1",
+      "isDefault": false
+    },
+    {
+      "id": "ChildPage1",
+      "isDefault": false
+    },
+    {
+      "id": "3669741e",
       "isDefault": false
     }
   ],
